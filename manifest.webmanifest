@@ -1,0 +1,29 @@
+{
+  "name": "VELTHON Student Hub",
+  "short_name": "Student Hub",
+  "description": "Notes, handwriting, lectures, flashcards and planning in one secure place.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E1A2B",
+  "theme_color": "#0E1A2B",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
