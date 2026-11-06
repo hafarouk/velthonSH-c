@@ -24,6 +24,11 @@
         height: 100%;
         flex: 1;
       }
+
+      /* Fill the whole screen on tablets and phones, even when the browser bar hides; no blank strip at the bottom. */
+      html, body { height: 100%; min-height: 100dvh; background: #0E1A2B; }
+      body { margin: 0; overscroll-behavior: none; }
+      #root { min-height: 100dvh; height: 100dvh; }
     </style>
   <link rel="icon" href="./favicon.ico" /></head>
 
