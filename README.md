@@ -1,4 +1,4 @@
-# VELTHON Student Hub — website and APK
+# VELTHON Student Hub — website
 
 The Student Hub app in a browser (same code and features as the tablet app).
 
