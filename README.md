@@ -2,7 +2,7 @@
 
 The Student Hub app in a browser (same code and features as the tablet app), plus the Android APK download.
 
-- Website: https://hafarouk.github.io/velthonSH-c/
-- APK download page: https://hafarouk.github.io/velthonSH-c/download/
+- Website: https://velthond.github.io/velthonSH-c/
+- APK download page: https://velthond.github.io/velthonSH-c/download/
 
-Built automatically from hafarouk/Velthon-Student-Hub (tablet-app). Every app build refreshes this site.
+Built automatically from velthond/Velthon-Student-Hub (tablet-app). Every app build refreshes this site.
