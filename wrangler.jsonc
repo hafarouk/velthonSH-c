@@ -1,8 +1,8 @@
 // Cloudflare hosting for the VELTHON Student Hub website.
-// Connect this repository to the Cloudflare Worker "velthonsh-cl" (Workers & Pages → velthonsh-cl →
+// Connect this repository to the Cloudflare Worker "vsh" (Workers & Pages → vsh →
 // Settings → Build → Connect) and every push to main deploys the site automatically. Free plan.
 {
-  "name": "velthonsh-cl",
+  "name": "vsh",
   "compatibility_date": "2026-11-01",
   "assets": {
     "directory": "./",
